@@ -1,0 +1,14 @@
+created: 20210110175047050
+modified: 20220807114541652
+tags: 
+title: $:/plugins/kookma/pikaday/ui/forms/TodoDueDate
+type: text/vnd.tiddlywiki
+
+\define lingo-base() $:/language/projectify/
+
+<$py-date-today>{{$:/plugins/kookma/pikaday/images/sun}} <<lingo Today>></$py-date-today>
+<$py-date-tomorrow>{{$:/plugins/kookma/pikaday/images/calendar-event}} <<lingo Tomorrow>></$py-date-tomorrow>
+<$py-date-next-week>{{$:/plugins/kookma/pikaday/images/calendar}} <<lingo NextWeek>></$py-date-next-week>
+<$py-date-clear>{{$:/plugins/kookma/pikaday/images/slash-circle}} <<lingo Clear>></$py-date-clear>
+<hr/>
+<$py-date-calendar/>

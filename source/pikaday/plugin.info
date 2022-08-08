@@ -1,0 +1,12 @@
+{
+    "title": "$:/plugins/kookma/pikaday",
+    "name": "Pikaday",
+    "description": "Date picker from Projectify",
+    "author": "Nicolas Petton, Mohammad Rahmani",
+    "version": "0.5.0",
+    "core-version": ">=5.2.3",
+    "source": "https://github.com/kookma/TW-Pikaday",
+    "list": "readme history license",
+    "plugin-type": "plugin",
+    "dependents": ""
+}

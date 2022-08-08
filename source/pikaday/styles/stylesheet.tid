@@ -1,0 +1,36 @@
+created: 20200426194806637
+modified: 20220807114541628
+tags: $:/tags/Stylesheet
+title: $:/plugins/kookma/pikaday/styles/stylesheet
+type: text/vnd.tiddlywiki
+
+
+.tc-drop-down.py-drop-down {
+  min-width: 200px;
+}
+
+.tc-drop-down.py-drop-down .tc-btn-invisible {
+  font-size: 14px;
+  line-height: 2em;
+}
+
+.tc-drop-down.py-drop-down .tc-btn-invisible svg {
+    margin-right: 6px;
+}
+
+.tc-drop-down.py-drop-down hr {
+  margin: 2px 0;
+  padding: 0;
+  border: 0;
+  border-bottom: 1px solid <<colour muted-foreground>>;
+}
+
+
+
+.py-due-date.py-overdue {
+  color: <<colour background>>;
+  background: #e73939;
+  border-color: #e73939;
+  font-weight: bold;
+}
+

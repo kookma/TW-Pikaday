@@ -1,0 +1,30 @@
+created: 20210117173623112
+modified: 20220807114541617
+tags: $:/tags/Stylesheet
+title: $:/plugins/kookma/pikaday/styles/form-control
+type: text/vnd.tiddlywiki
+
+\rules only filteredtranscludeinline transcludeinline macrodef macrocallinline
+
+.py-btn {
+  border-radius: 1.5em;
+  border: 1px solid #ccc;
+  background: <<colour tiddler-background>>;
+  padding: .3em 1em;
+  cursor: pointer;
+  transition: box-shadow ease-in .1s;
+}
+
+.py-btn:focus {
+  outline: 0 none;
+}
+
+.py-btn:active {
+  box-shadow: 0 0 0 0.2rem rgba(0,0,0,.08);
+}
+
+.py-btn.btn-small {
+  font-size: .9em;
+  padding: .2em .8em;
+}
+
