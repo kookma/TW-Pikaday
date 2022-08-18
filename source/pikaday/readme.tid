@@ -1,13 +1,11 @@
 created: 20220807114725119
-modified: 20220808051738333
+modified: 20220818080141917
 tags: 
 title: $:/plugins/kookma/pikaday/readme
 type: text/vnd.tiddlywiki
 
 ; Pikaday
-A date-picker with calendar widget to pick a date and set to `due` field of target tiddler.
-
-This is a derived plugin from Projectify by [[Nicolas Petton|https://nicolas.petton.fr]] nicolas@petton.fr
+A date-picker with calendar widget to pick a date and set to `due` field of target tiddler. This is a derived plugin from Projectify by [[Nicolas Petton|https://nicolas.petton.fr]] nicolas@petton.fr
 
 ;Code and demo
 For learning plugin features, syntax, tutorial and examples see the plugin demo and code pages

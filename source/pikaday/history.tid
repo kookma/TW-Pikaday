@@ -1,12 +1,12 @@
 created: 20220807114725118
-modified: 20220818063859468
+modified: 20220818195104846
 tags: 
 title: $:/plugins/kookma/pikaday/history
 type: text/vnd.tiddlywiki
 
 Full change log  https://kookma.github.io/TW-Pikaday/#ChangeLog
 
-* ''0.5.1'' -- 2020.08.12 -- Minor bug fixes
-* ''0.5.1'' -- 2020.08.12 -- Stable release
-* ''0.2.0'' -- 2020.08.08 -- Polished and first stable release
-* ''0.1.0'' -- 2022.08.07 -- Extracted from Projectify
+* ''0.5.2'' -- 2020.08.18 -- minor bug fixes
+* ''0.5.1'' -- 2020.08.12 -- stable release
+* ''0.2.0'' -- 2020.08.08 -- polished and first stable release
+* ''0.1.0'' -- 2022.08.07 -- extracted from Projectify
