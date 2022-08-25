@@ -1,7 +1,5 @@
 caption: {{$:/language/projectify/Calendar}}
-created: 20210521105044185
 list-before: $:/plugins/nico/projectify/ui/config/Dashboard
-modified: 20220825040626206
 tags: 
 title: $:/plugins/kookma/pikaday/ui/config/Calendar
 type: text/vnd.tiddlywiki
