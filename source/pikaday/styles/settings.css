@@ -1,0 +1,10 @@
+/* used in ui settings tab */
+label.kk-pk-label {
+	display:inline-block;
+	width: 120px;
+	margin-bottom:0.4em;
+}
+.kk-pk-input {
+	width:180px;
+}
+

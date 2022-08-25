@@ -1,7 +1,7 @@
 caption: {{$:/language/projectify/Calendar}}
 created: 20210521105044185
 list-before: $:/plugins/nico/projectify/ui/config/Dashboard
-modified: 20220818063316557
+modified: 20220825040626206
 tags: 
 title: $:/plugins/kookma/pikaday/ui/config/Calendar
 type: text/vnd.tiddlywiki
@@ -16,4 +16,4 @@ type: text/vnd.tiddlywiki
 </$select>
 \end
 
-<label style="display:inline-block;5px;width:120px;"><<lingo FirstDayOfWeek>></label> <<select-first-day-of-week>>
+<label class="kk-pk-label"><<lingo FirstDayOfWeek>></label><<select-first-day-of-week>>
