@@ -1,6 +1,4 @@
 caption: Pikaday
-list-after: $:/core/ui/ControlPanel/Settings/TiddlyWiki
-modified: 20220927142943154
 tags: $:/tags/ControlPanel/SettingsTab $:/tags/MoreSideBar
 title: $:/plugins/kookma/pikaday/ui/ControlPanel/Settings
 type: text/vnd.tiddlywiki
