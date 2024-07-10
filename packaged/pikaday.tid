@@ -7,6 +7,7 @@ modified: 20240710185309135
 name: Pikaday
 plugin-type: plugin
 source: https://github.com/kookma/TW-Pikaday
+stability: STABILITY_2_STABLE
 tags: 
 title: $:/plugins/kookma/pikaday
 type: application/json
