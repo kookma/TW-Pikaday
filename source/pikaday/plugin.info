@@ -9,5 +9,5 @@
     "list": "readme history license",
     "plugin-type": "plugin",
     "dependents": "",
-	"stability":,"STABILITY_2_STABLE"
+	"stability":"STABILITY_2_STABLE"
 }
